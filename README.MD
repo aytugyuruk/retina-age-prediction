@@ -1,8 +1,4 @@
-# Retinal Age Prediction from Fundus Images
-
-This repository contains the paper for the study:
-
-**Age Prediction and Categorization from Retinal Fundus Images Using Residual Neural Networks**
+#Age Prediction and Categorization from Retinal Fundus Images Using Residual Neural Networks
 
 The study analyzes the behavior of deep learning models with different depths under varying input variance conditions, using retinal fundus images.
 
