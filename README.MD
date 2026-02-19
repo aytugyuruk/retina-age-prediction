@@ -5,20 +5,11 @@ This study investigates the behavior of ResNet architectures with different dept
 ---
 
 <p align="center">
-  <img src="figure1.png" width="400">
+  <img src="figure1.png" width="500">
 </p>
 
 <p align="center">
   Figure 1: the pipeline of this study
-</p>
-
-
-<p align="center">
-  <img src="figure2.png" width="400">
-</p>
-
-<p align="center">
-  Figure 2: The schema of image preprocessing steps.
 </p>
 
 ---
